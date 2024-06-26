@@ -1,0 +1,7 @@
+.vfrc-widget--chat {
+    width: 1000px;
+}
+.vfrc-system-response--list .vfrc-message--chat {
+  max-width: 460px;
+  width: 400px;
+}
